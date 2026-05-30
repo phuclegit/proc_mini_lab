@@ -21,4 +21,4 @@ jobs:
       with:
         context: ./app
         push: true
-        tags: phucle/flask-app:latest
+        tags: phuclegit/proc-mini-lab:latest
